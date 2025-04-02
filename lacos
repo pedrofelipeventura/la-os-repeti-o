@@ -1,0 +1,28 @@
+for = quando vc sabe quantos lacos tera
+while/ do while = quando vc nn sabe quantos lacos tera
+evitar usar break 
+
+for:
+
+for(int i = 0; i<condição; i++){
+;
+;
+}
+
+int i = 0;
+
+while(i<10){
+
+printf("%d", i);
+i++;
+
+}
+
+laço infinito com while:
+
+while(1){
+
+}
+
+continue: pula para a proxima interação no laço
+break: interrompe o laço
